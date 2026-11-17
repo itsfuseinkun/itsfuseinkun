@@ -1,18 +1,6 @@
-# I'm Muhammad Hussain
-I'm a CS student interested in programming, technology, and software development. Currently building my skills and exploring new technologies.
-## 🚀 Currently Working On
-- Learning HTML, CSS, and Python.
-- Improving my programming fundamentals.
-- Exploring software development.
-## 🛠️ Tools I Use
-- **Code Editor:** VS Code
-- **AI Assistants:** ChatGPT, Gemini
-- **Other:** Microsoft Excel
-## 📚 Future Learning Goals
-- Java
-- JavaScript
-- TypeScript
-- MySQL
-- Tableau
-## 📫 Connect With Me
-- Email: fuseinkun@gmail.com
+# Hey there👋
+I'm Muhammad Hussain.
+A CS student passionate about programming and technology. 
+Currently learning HTML, CSS, and Python while exploring software development. 
+I use VS Code, ChatGPT, Gemini, and Excel, with plans to learn Java, JavaScript, TypeScript, MySQL, and Tableau. 
+## 📫 Email: fuseinkun@gmail.com
